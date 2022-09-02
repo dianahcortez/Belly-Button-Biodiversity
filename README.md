@@ -20,4 +20,5 @@ Many bacteria species are not well studied and many more are unknown. We are tas
 ## Results
 Published page can be access by clicking https://dianahcortez.github.io/Belly-Button-Biodiversity.io/.
 
+<img width="938" alt="whole page" src="https://user-images.githubusercontent.com/104927745/188228207-6ca1991d-a05b-4b83-9acd-abcb3fc7361d.PNG">
 Tip: Best viewed on a desktop as the page has not been optimized to be mobile responsive.
